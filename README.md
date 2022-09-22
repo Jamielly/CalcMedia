@@ -1,6 +1,5 @@
-# CalcMedia
-Cálculo da média de duas notas de alunos, comandos básicos em Java - curso POO a Java (EAD) - IFSP
-Faça um método que calcule a média aritmética de um aluno a partir de duas notas. Ou seja, média = (nota 1 + nota 2) / 2
+
+Faça um método que calcule a média aritmética de um aluno a partir de duas notas. Ou seja, média = (nota 1 + nota 2) /2
 
 A partir da média calculada, informe o status do aluno de acordo com a tabela a seguir: 
 
